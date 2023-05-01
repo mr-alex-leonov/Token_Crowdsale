@@ -5,12 +5,17 @@ An ERC-20 Compliant Ethereum-based Fungible Token Contract complimented by Crowd
 
 This project encompasses:
 
-Type: Smart Contracts
-Language: Solidity
-Framework: OpenZeppelin
-IDE: Remix Ethereum
-Blockchain Emulator: Ganache
-Wallet: Metamask
+    Type: Smart Contracts;
+
+    Language: Solidity;
+
+    Framework: OpenZeppelin;
+
+    IDE: Remix Ethereum;
+
+    Blockchain Emulator: Ganache;
+
+    Wallet: Metamask
 
 
 
